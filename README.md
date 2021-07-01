@@ -3,7 +3,7 @@
 
 Python code for face-mask object detection &amp; classification task using Torchvision fasterRCNN. 
 
-The repository includes a project report under project_report.pdf file. 
+The repository includes a project report under Project_Report.pdf file. 
 
 In order to evaluate the trained model on a new dataset, run python predict.py >PATH_TO_FOLDER>. This will save a prediction.csv file with the predictions, in the same directory. 
 
